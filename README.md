@@ -8,5 +8,5 @@ dev-ir/dev-ir is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
+  <img height="300px" width="100%" src="[https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)" ></img>
 </a>
