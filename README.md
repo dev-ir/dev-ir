@@ -3,10 +3,6 @@
     <b>Hi , I'm Mahdi Ebrahimi </b>
 </h1>
 
-<p align="center">
-</p>
-
-
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
