@@ -1,14 +1,8 @@
-
-<h1 align="center">
-    <b>Hi , I'm Mahdi Ebrahimi </b>
-</h1>
-
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 
-- 👋 Hi, I'm mahdi
+- 👋 Hi , I'm Mahdi Ebrahimi 
 - 👀 I'm interested in web develop
 - 🌱 I’m currently learning go language
 - 💞️ I’m looking to collaborate on anybody if can help me this roud
