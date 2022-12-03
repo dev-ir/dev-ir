@@ -5,7 +5,7 @@
 - 👋 Hi , I'm Mahdi Ebrahimi
 - 👀 I'm interested in web development
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on anybody if can help me this roud
+- 💞️ I'm looking to collaborate on open-source.
 - 📫 How to reach me <a href="http://dvgroups.ca/"> Site </a> | <a href="mailto:info@dvgroups.ca">E-mail</a> | <a href="https://www.instagram.com/mahdiebrahimi_official/"> Instagram </a>
 </p>
 <br>
