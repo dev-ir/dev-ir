@@ -12,14 +12,6 @@
 </br>
 <br></br>
 
-```php
-// Enquanto a vida for Open Source...
-while($life->isOpenSource()) {
-    // diz que ama codar e ama alguém inteligente
-    echo 'I love to code. I love you, ' . $name . '! ';
-}
-```
-<br></br>
 
 ## 📊 &nbsp;My activities
 <div align="center">
