@@ -6,8 +6,8 @@
 - 👀 I'm interested in web development
 - 🌱 I’m currently learning golang
 - 💞️ I'm looking to collaborate on open-source.
-- ✨ This is my official website: <a href="http://dvgroups.ca/"> dvgroups </a> - <a href="http://Developermen.ir/"> Developermen </a>
-- 📫 How to reach me <a href="http://dvgroups.ca/"> Website </a> | <a href="mailto:info@dvgroups.ca">E-mail</a> | <a href="https://www.instagram.com/mahdiebrahimi_official/"> Instagram </a>  | <a href="https://www.linkedin.com/in/mahdi-ebrahimi-dev/"> linkedin </a>
+- ✨ This is my official website: <a href="http://dvgroups.ca/"> dvgroups </a> - <a href="http://dvgroups.ca/"> Developermen </a>
+- 📫 How to reach me <a href="http://dvgroups.ca/"> Website </a> | <a href="mailto:info@dvgroups.ca">E-mail</a> | <a href="https://www.instagram.com/dvgroups.ca/"> Instagram </a>  | <a href="https://www.linkedin.com/in/dvgroups.ca/"> linkedin </a>
 </p>
 </br>
 <br></br>
