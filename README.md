@@ -2,12 +2,10 @@
 <picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/programming.svg" width=250px></picture>
 <br>
 
-- 👋 Hi , I'm HO3EIN
+- 👋 Hi , I'm RahGozar
 - 👀 I'm interested in web development
 - 🌱 I’m currently learning golang
 - 💞️ I'm looking to collaborate on open-source.
-- ✨ This is my official website: <a href="http://dvgroups.ca/"> dvgroups </a>
-- 📫 How to reach me <a href="http://dvgroups.ca/"> Website </a> | <a href="mailto:info@dvgroups.ca">E-mail</a> | <a href="https://www.instagram.com/dvgroups.ca/"> Instagram </a>  | <a href="https://www.linkedin.com/in/dvgroups.ca/"> linkedin </a>
 </p>
 </br>
 <br></br>
