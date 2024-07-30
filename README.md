@@ -1,4 +1,4 @@
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
+## <picture><img src="https://github.com/user-attachments/assets/c52d742f-955b-45e2-9d9b-8c28771c4e8b" width=50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/user-attachments/assets/25d6735e-1f7f-4aaf-8768-573f8e509f91" width=250px></picture>
 <br>
 
