@@ -1,5 +1,5 @@
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
-<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/programming.svg" width=250px></picture>
+<picture> <img align="right" src="https://github.com/user-attachments/assets/25d6735e-1f7f-4aaf-8768-573f8e509f91" width=250px></picture>
 <br>
 
 - 👋 Hi , I'm RahGozar
